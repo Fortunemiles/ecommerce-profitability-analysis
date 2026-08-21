@@ -25,16 +25,52 @@ The analysis was conducted using MySQL on sales data covering the period from Ja
 
 ### Product Line Performance
 
-[Findings to be documented]
+Personal Accessories generated the highest revenue at approximately
+410.32M and the highest total profit at approximately 172.22M.
+
+Golf Equipment generated approximately 331.84M in revenue and
+157.99M in profit, making it the second-highest product line by profit.
+
+Camping Equipment generated approximately 334.80M in revenue and
+124.38M in profit.
+
+Mountaineering Equipment generated approximately 156.85M in revenue
+and 62.51M in profit.
+
+Outdoor Protection generated the lowest revenue at approximately
+17.70M but achieved the highest profit margin at 60.07%.
+
+| Product Line | Revenue | Profit | Profit Margin |
+|---|---:|---:|---:|
+| Personal Accessories | 410.32M | 172.22M | 41.97% |
+| Golf Equipment | 331.84M | 157.99M | 47.61% |
+| Camping Equipment | 334.80M | 124.38M | 37.15% |
+| Mountaineering Equipment | 156.85M | 62.51M | 39.85% |
+| Outdoor Protection | 17.70M | 10.63M | 60.07% |
 
 ### Top Products by Profit
 
-[Findings to be documented]
+The top-performing products by total profit were dominated by the
+Hailstorm brand, particularly within the Golf Equipment product line.
+
+The Hailstorm Titanium Woods Set generated approximately 25.91M in
+profit, while the Hailstorm Titanium Irons generated approximately
+20.22M.
+
+Other high-performing products included the Hailstorm Steel Woods Set,
+Lady Hailstorm Titanium Woods Set, Star Lite, Inferno, Legend, Canyon
+Mule Weekender Backpack, and Hailstorm Steel Irons.
 
 ### Key Product Insights
 
-[Findings to be documented]
-
+- Personal Accessories is the largest contributor to total profit.
+- Golf Equipment combines strong revenue with a high profit margin of
+  47.61%.
+- Outdoor Protection has the highest profit margin at 60.07%, despite
+  having the lowest revenue among the product lines.
+- Hailstorm products are particularly strong profit contributors,
+  suggesting that the brand and Golf Equipment category deserve
+  particular attention in future sales strategies.
 
 ---
 
