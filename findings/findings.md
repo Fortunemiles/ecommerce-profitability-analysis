@@ -344,12 +344,65 @@ selectively and monitored against the resulting profit contribution.
 
 ## 8. Business Recommendations
 
-1. [Recommendation]
-2. [Recommendation]
-3. [Recommendation]
-4. [Recommendation]
-5. [Recommendation]
+Based on the analysis, the following actions are recommended:
 
+### 1. Prioritize High-Profit Product Lines
+
+Personal Accessories generated the highest total profit at approximately
+172.22M, while Golf Equipment generated approximately 157.99M with a
+strong 47.61% profit margin.
+
+The business should continue investing in these product lines while
+protecting their margins.
+
+### 2. Monitor Heavy Discounting
+
+Discounts above 15% were associated with a substantial decline in profit
+margin, which fell to 27.30%.
+
+Promotions exceeding 15% should therefore be carefully evaluated to
+ensure the additional sales generated justify the reduction in margin.
+
+### 3. Continue Investing in the Web Channel
+
+The Web order method generated approximately 909.60M in revenue and
+383.42M in profit, making it the dominant sales channel.
+
+The business should continue prioritizing its digital sales
+infrastructure while exploring opportunities to increase the scale of
+other profitable channels.
+
+### 4. Explore High-Margin Markets and Retailer Types
+
+China recorded a strong profit margin of approximately 43.94%, while
+Golf Shops achieved a 46.76% margin.
+
+These markets and retailer types could provide opportunities for
+targeted expansion, provided sufficient sales volume can be achieved.
+
+### 5. Leverage High-Margin Products
+
+Outdoor Protection achieved the highest product-line profit margin at
+60.07%, despite generating relatively low revenue.
+
+The business should investigate opportunities to increase the sales
+volume of high-margin products without compromising their margins.
+
+### 6. Investigate Seasonal Demand
+
+February generated the highest total revenue across the dataset, while
+September recorded the lowest.
+
+The business could use these seasonal patterns to improve inventory
+planning, promotional timing, and marketing allocation.
+
+### 7. Monitor Growth Trends
+
+Revenue and profit grew strongly between 2015 and 2017, although the
+rate of growth slowed from 2016 to 2017.
+
+Management should monitor whether this slowdown represents the beginning
+of market saturation or simply normal variation in annual growth.
 
 ---
 
