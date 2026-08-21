@@ -81,7 +81,7 @@ The analysis will focus on the following business questions:
 
 ## Tools & Technologies
 
-- **SQL Server** – Data cleaning, transformation, exploration, and analysis
+- **My SQL** – Data cleaning, transformation, exploration, and analysis
 - **SQL** – Data querying and business analysis
 - **Tableau** – Data visualization and dashboard development
 - **GitHub** – Project documentation and version control
