@@ -183,15 +183,79 @@ the highest profit margins among the major markets.
 
 ### Annual Performance
 
-[Findings to be documented]
+Revenue and profit increased substantially from 2015 through 2017.
+
+2017 was the strongest complete year in the dataset, generating
+approximately 401.36M in revenue and 169.01M in profit.
+
+The available 2018 data covers only January through July, so it should
+not be directly compared with the full-year results for 2015–2017.
+
+| Year | Revenue | Profit | Profit Margin |
+|---|---:|---:|---:|
+| 2015 | 242.29M | 103.03M | 42.52% |
+| 2016 | 322.33M | 134.33M | 41.67% |
+| 2017 | 401.36M | 169.01M | 42.11% |
+| 2018* | 285.54M | 121.36M | 42.50% |
+
+*2018 contains data through July 20 only.
 
 ### Year-over-Year Growth
 
-[Findings to be documented]
+Revenue grew by 33.04% from 2015 to 2016, followed by another 24.52%
+increase from 2016 to 2017.
+
+Profit followed a similar pattern, increasing by 30.38% in 2016 and
+25.82% in 2017.
+
+The available 2018 data shows a decline of 28.86% in revenue and 28.20%
+in profit compared with the previous year. However, this decline should
+not be interpreted as a full-year deterioration because 2018 is an
+incomplete year.
+
+| Year | Revenue | Profit | Revenue YoY Growth | Profit YoY Growth |
+|---|---:|---:|---:|---:|
+| 2015 | 242.29M | 103.03M | — | — |
+| 2016 | 322.33M | 134.33M | 33.04% | 30.38% |
+| 2017 | 401.36M | 169.01M | 24.52% | 25.82% |
+| 2018* | 285.54M | 121.36M | -28.86% | -28.20% |
 
 ### Monthly & Seasonal Performance
 
-[Findings to be documented]
+Across the full dataset, February generated the highest total revenue
+at approximately 129.67M, followed by June at 125.35M and May at
+120.22M.
+
+January recorded the lowest total revenue at approximately 103.14M.
+
+| Month | Revenue | Profit |
+|---|---:|---:|
+| February | 129.67M | 54.34M |
+| June | 125.35M | 53.74M |
+| May | 120.22M | 50.20M |
+| March | 117.56M | 49.56M |
+| April | 114.93M | 48.46M |
+| July | 113.40M | 47.63M |
+| January | 103.14M | 44.51M |
+| December | 89.17M | 38.25M |
+| November | 88.90M | 36.21M |
+| August | 86.48M | 36.07M |
+| October | 81.47M | 33.88M |
+| September | 81.24M | 34.86M |
+
+### Key Time-Based Insights
+
+- The business experienced strong growth between 2015 and 2017.
+- 2017 was the strongest complete year in terms of both revenue and
+  profit.
+- Revenue growth slowed from 33.04% in 2016 to 24.52% in 2017, while
+  remaining strongly positive.
+- Profit margins remained relatively stable at approximately 42% across
+  the years.
+- February was the strongest month by total revenue across the dataset.
+- January recorded the lowest total revenue among the months.
+- The seasonal pattern suggests stronger performance during the first
+  half of the year, particularly around February through June.
 
 
 ---
