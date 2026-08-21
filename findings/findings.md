@@ -303,11 +303,41 @@ Mail had the highest profit margin among the major order methods at
 
 ### Discount Performance
 
-[Findings to be documented]
+The analysis shows that the business provided approximately 66.47M in
+total discounts, representing an overall discount rate of 5.04% against
+the listed product value.
+
+To understand how discounting relates to profitability, sales were
+grouped into five discount bands.
+
+| Discount Band | Revenue | Profit | Profit Margin |
+|---|---:|---:|---:|
+| 0% | 365.66M | 154.43M | 42.23% |
+| 0–5% | 414.30M | 180.91M | 43.67% |
+| 5–10% | 429.80M | 179.88M | 41.85% |
+| 10–15% | 8.35M | 3.39M | 40.63% |
+| 15%+ | 33.39M | 9.12M | 27.30% |
 
 ### Key Discount Insights
 
-[Findings to be documented]
+- The overall discount rate was relatively moderate at 5.04%.
+- The 0–5% discount band achieved the highest profit margin at 43.67%.
+- Profit margins remained relatively stable between 0% and 10% discounts.
+- Profit margin declined to 40.63% for discounts between 10% and 15%.
+- Discounts above 15% were associated with a significant reduction in
+  profit margin, which fell to 27.30%.
+- The results suggest that heavy discounting, particularly above 15%,
+  may significantly reduce profitability.
+- Because this analysis is observational, the relationship should be
+  interpreted as an association rather than proof that discounts
+  directly cause lower profitability.
+
+### Business Implication
+
+The business should carefully evaluate promotions involving discounts
+above 15%. Moderate discounts may support sales without substantially
+reducing margins, while aggressive discounting should be applied
+selectively and monitored against the resulting profit contribution.
 
 
 ---
