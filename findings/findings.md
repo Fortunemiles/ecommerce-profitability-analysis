@@ -262,12 +262,40 @@ January recorded the lowest total revenue at approximately 103.14M.
 
 ## 6. Order Method Performance
 
-[Findings to be documented]
+Web was by far the largest order method, generating approximately
+909.60M in revenue and 383.42M in profit.
+
+Telephone was the second-largest order method by revenue, generating
+approximately 157.89M in revenue and 66.54M in profit.
+
+E-mail generated approximately 87.90M in revenue and 37.95M in profit,
+while Sales Visit generated 67.96M in revenue and 27.77M in profit.
+
+Mail had the highest profit margin among the major order methods at
+43.41%, followed by E-mail at 43.17%.
+
+| Order Method | Revenue | Profit | Profit Margin |
+|---|---:|---:|---:|
+| Web | 909.60M | 383.42M | 42.15% |
+| Telephone | 157.89M | 66.54M | 42.14% |
+| E-mail | 87.90M | 37.95M | 43.17% |
+| Sales Visit | 67.96M | 27.77M | 40.86% |
+| Mail | 20.76M | 9.01M | 43.41% |
+| Special | 4.51M | 1.84M | 40.71% |
+| Fax | 2.88M | 1.20M | 41.70% |
 
 ### Key Order Method Insights
 
-[Findings to be documented]
-
+- Web is the dominant sales channel, generating the vast majority of
+  total revenue and profit.
+- E-mail and Mail achieve slightly higher profit margins than Web,
+  despite their much smaller sales volumes.
+- Sales Visit has a relatively lower profit margin of 40.86%.
+- The difference in profit margins across order methods is relatively
+  small, suggesting that order method has a greater impact on sales
+  volume than on overall profitability.
+- The business should continue prioritizing Web as its primary sales
+  channel while exploring ways to scale higher-margin channels.
 
 ---
 
