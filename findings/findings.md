@@ -136,11 +136,45 @@ having the lowest revenue among the retailer types.
 
 ### Country Performance
 
-[Findings to be documented]
+The United States was the largest market by both revenue and total
+profit, generating approximately 197.21M in revenue and 81.43M in
+profit.
+
+The United Kingdom and Germany were the next-largest contributors by
+profit, generating approximately 44.65M and 44.29M respectively.
+
+Switzerland had a relatively small number of retailers but generated
+approximately 77.09M in revenue and 33.72M in profit, giving it one of
+the highest profit margins among the major markets.
+
+| Country | Retailers | Revenue | Profit | Profit Margin |
+|---|---:|---:|---:|---:|
+| United States | 54 | 197.21M | 81.43M | 41.29% |
+| United Kingdom | 21 | 107.74M | 44.65M | 41.45% |
+| Germany | 15 | 105.30M | 44.29M | 42.06% |
+| Korea | 8 | 96.25M | 40.77M | 42.36% |
+| Canada | 17 | 83.73M | 35.41M | 42.28% |
+| Switzerland | 6 | 77.09M | 33.72M | 43.74% |
+| Japan | 22 | 63.77M | 27.50M | 43.13% |
+| Mexico | 8 | 62.26M | 26.60M | 42.73% |
+| Netherlands | 9 | 60.70M | 26.11M | 43.01% |
+| China | 18 | 58.36M | 25.65M | 43.94% |
 
 ### Key Geographic Insights
 
-[Findings to be documented]
+- The United States is the largest market, contributing approximately
+  81.43M in profit.
+- The United Kingdom and Germany are also major contributors to total
+  profitability.
+- China recorded the highest profit margin among the countries shown,
+  at approximately 43.94%.
+- Switzerland achieved a strong 43.74% margin despite having only six
+  retailers.
+- Profit margins are relatively consistent across most countries,
+  generally remaining within the low-to-mid 40% range.
+- The results suggest that market size, rather than major differences
+  in profitability rates, is the primary driver of differences in
+  total profit between countries.
 
 
 ---
