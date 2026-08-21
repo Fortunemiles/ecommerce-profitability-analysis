@@ -253,7 +253,7 @@ January recorded the lowest total revenue at approximately 103.14M.
 - Profit margins remained relatively stable at approximately 42% across
   the years.
 - February was the strongest month by total revenue across the dataset.
-- January recorded the lowest total revenue among the months.
+- September recorded the lowest total revenue at approximately 81.24M, closely followed by October at 81.47M.
 - The seasonal pattern suggests stronger performance during the first
   half of the year, particularly around February through June.
 
