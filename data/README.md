@@ -12,7 +12,7 @@ The dataset used in this project does not contain sensitive personal information
 
 ## Data Preparation
 
-The dataset will be inspected and prepared for analysis using SQL Server. Data preparation will include:
+The dataset will be inspected and prepared for analysis using My SQL. Data preparation will include:
 
 - Reviewing the structure and data types
 - Checking for missing values
