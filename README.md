@@ -35,15 +35,15 @@ This analysis focuses on questions such as:
 
 The main objectives of this project are to:
 
-- Analyze overall sales and profit performance.
-- Identify the most and least profitable products and categories.
-- Understand customer purchasing behavior.
-- Analyze revenue and profit trends over time.
-- Identify high-value customers.
-- Compare sales performance across different customer segments and regions.
-- Identify products with strong sales but weak profitability.
-- Calculate key business performance metrics.
-- Develop actionable recommendations based on the analysis.
+- Analyze overall revenue, profit, and profit margin.
+- Identify revenue and profitability trends over time.
+- Compare profitability across different product categories.
+- Analyze revenue performance across different order methods.
+- Evaluate the relationship between discounts and profitability.
+- Identify the top-performing products by revenue.
+- Analyze the geographical distribution of revenue.
+- Develop an interactive Tableau dashboard to communicate key findings.
+- Translate the analysis into clear business insights that can support data-driven decision-making.
 
 ---
 
