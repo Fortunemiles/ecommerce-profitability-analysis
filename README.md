@@ -86,7 +86,7 @@ The analysis was designed to answer the following business questions:
 
 ## Tools & Technologies
 
-- **My SQL** – Data cleaning, transformation, exploration, and analysis
+- **MySQL** – Data cleaning, transformation, exploration, and analysis
 - **SQL** – Data querying and business analysis
 - **Tableau** – Data visualization and dashboard development
 - **GitHub** – Project documentation and version control
