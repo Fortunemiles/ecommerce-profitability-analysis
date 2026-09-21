@@ -13,20 +13,21 @@ The final analysis was visualized in Tableau through an interactive dashboard co
 
 ## Business Problem
 
-E-commerce businesses generate large amounts of transactional data, but raw sales data alone does not provide a clear understanding of business performance.
+E-commerce businesses generate large volumes of transactional data, but raw sales records alone do not provide a clear picture of overall business performance.
 
-The business needs to answer questions such as:
+The business needs to understand how revenue and profitability are distributed across different areas of the business and identify the factors that may influence financial performance.
 
-- Which products and categories generate the most revenue?
-- Which products and categories are the most profitable?
-- Which customers contribute the most to overall revenue and profit?
-- How does profitability change over time?
-- Which regions or customer segments perform best?
-- Are there products generating high sales but low profit?
-- What factors are contributing to overall profitability?
+This analysis focuses on questions such as:
 
-This project aims to answer these questions by analyzing historical e-commerce transaction data and translating the results into actionable business insights.
+How has revenue changed over time?
+Which product categories generate the most revenue and profit?
+Which order methods contribute the most revenue?
+How do discounts affect profitability?
+Which products generate the highest revenue?
+How is revenue distributed across different countries?
+Which areas of the business show strong or weak profitability?
 
+<p>The goal is to turn these transactional records into meaningful insights that can support better understanding of sales performance and profitability</p>.
 ---
 
 ## Project Objectives
