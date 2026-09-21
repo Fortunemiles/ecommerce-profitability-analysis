@@ -7,7 +7,8 @@ This project is an end-to-end analysis of e-commerce sales data focused on under
 Using MySQL, the raw transactional data was cleaned, transformed, joined, and analyzed to generate key business metrics and identify meaningful patterns in sales and profitability.
 The final analysis was visualized in Tableau through an interactive dashboard covering **149,257 transaction records** from **2015 to 2018**.
 
-The goal is to transform raw transactional data into clear business insights that can help stakeholders understand revenue and profitability drivers and identify areas that may require further attention.
+<p>The goal is to transform raw transactional data into clear business insights that can help stakeholders understand revenue and profitability drivers and identify areas that may require further attention.</p>
+
 ---
 
 ## Business Problem
