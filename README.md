@@ -79,10 +79,8 @@ The analysis was designed to answer the following business questions:
 
 ### Product Performance
 
-1. Which products have the highest sales volume?
-2. Which products generate the highest revenue?
-3. Which products generate the highest profit?
-4. Are there products with high sales but poor profit margins?
+1. Which products generate the highest revenue?
+2. Which products are among the top-performing products by sales value?
 
 ---
 
