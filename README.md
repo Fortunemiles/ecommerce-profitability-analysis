@@ -49,29 +49,33 @@ The main objectives of this project are to:
 
 ## Key Business Questions
 
-The analysis will focus on the following business questions:
+The analysis was designed to answer the following business questions:
 
 ### Sales Performance
 
 1. What is the total revenue generated?
-2. How does revenue change over time?
-3. Which products and categories generate the most sales?
-4. Which regions and customer segments generate the most revenue?
+2. How has revenue changed over time?
+3. Which products generate the highest revenue?
+4. How is revenue distributed across different countries?
 
 ### Profitability
 
 1. What is the overall profit and profit margin?
-2. Which products and categories are the most profitable?
-3. Which products generate high revenue but low profit?
-4. Which products or categories have negative profitability?
-5. How does profit change over time?
+2. Which product categories have the highest profit margins?
+3. How does profitability vary across product categories?
+4. How does profit margin change across different discount levels?
 
-### Customer Analysis
+### Order Method Performance
 
-1. Who are the highest-value customers?
-2. Which customers generate the most revenue and profit?
-3. How frequently do customers make purchases?
-4. Which customer segments contribute the most to profitability?
+1. Which order methods generate the most revenue?
+2. How does profit margin vary across different order methods?
+3. Which order methods contribute most to overall sales performance?
+
+ ### Discount Impact 
+
+1. How does the level of discount affect revenue?
+2. How does profitability change as discounts increase?
+3. Which discount levels are associated with stronger or weaker profit margins?
 
 ### Product Performance
 
