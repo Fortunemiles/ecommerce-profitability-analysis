@@ -28,6 +28,7 @@ This analysis focuses on questions such as:
 - Which areas of the business show strong or weak profitability?
 
 <p>The goal is to turn these transactional records into meaningful insights that can support better understanding of sales performance and profitability.</p>
+
 ---
 
 ## Project Objectives
