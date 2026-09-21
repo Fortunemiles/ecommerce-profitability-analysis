@@ -19,15 +19,15 @@ The business needs to understand how revenue and profitability are distributed a
 
 This analysis focuses on questions such as:
 
-How has revenue changed over time?
-Which product categories generate the most revenue and profit?
-Which order methods contribute the most revenue?
-How do discounts affect profitability?
-Which products generate the highest revenue?
-How is revenue distributed across different countries?
-Which areas of the business show strong or weak profitability?
+- How has revenue changed over time?
+- Which product categories generate the most revenue and profit?
+- Which order methods contribute the most revenue?
+- How do discounts affect profitability?
+- Which products generate the highest revenue?
+- How is revenue distributed across different countries?
+- Which areas of the business show strong or weak profitability?
 
-<p>The goal is to turn these transactional records into meaningful insights that can support better understanding of sales performance and profitability</p>.
+<p>The goal is to turn these transactional records into meaningful insights that can support better understanding of sales performance and profitability </p>.
 ---
 
 ## Project Objectives
