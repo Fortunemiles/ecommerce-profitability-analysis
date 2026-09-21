@@ -95,7 +95,7 @@ The analysis was designed to answer the following business questions:
 
 ## Project Workflow
 
-The project will follow an end-to-end data analysis workflow:
+The project followed an end-to-end data analysis workflow:
 
 ```text
 Raw Data
